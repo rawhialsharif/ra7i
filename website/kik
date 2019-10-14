@@ -1,0 +1,19 @@
+<h1>>My big page</h1>
+
+<p>
+Go straight to the part dealing with:<br />
+<a href="#kitchen">The kitchen</a><br />
+<a href="#rollers">Rollers</a><br />
+<a href="#archery">Archery</a><br />
+</p>
+<h2 id="kitchen">The kitchen</h2>
+
+<p>... (lots of text) ...</p>
+
+<h2 id="rollers">Rollers</h2>
+
+<p>... (lots of text) ...</p>
+
+<h2 id="archery">Archery</h2>
+
+<p>... (lots of text) ...</p>
